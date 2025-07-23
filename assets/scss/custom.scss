@@ -1,7 +1,18 @@
 @font-face {
   font-family: 'MyFont';
-  src: url('/fonts/Font.ttf') format('truetype');
+  src: url('/fonts/RETROACTIVE.ttf') format('truetype');
+}
+
+@font-face {
+  font-family:'headingFont';
+  src: url('/fonts/AMORIA.otf') format('opentype');
 }
 body {
   font-family: 'MyFont', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'headingFont', sans-serif;
+  text-decoration: underline;
+  color: #56FF90;
 }

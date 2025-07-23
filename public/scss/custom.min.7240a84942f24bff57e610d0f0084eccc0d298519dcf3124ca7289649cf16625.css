@@ -1,0 +1,1 @@
+@font-face{font-family:myfont;src:url(/fonts/RETROACTIVE.ttf)format("truetype")}@font-face{font-family:headingfont;src:url(/fonts/AMORIA.otf)format("opentype")}body{font-family:myfont,sans-serif}h1,h2,h3,h4,h5,h6{font-family:headingfont,sans-serif;color:#56ff90}
