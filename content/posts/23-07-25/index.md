@@ -2,10 +2,10 @@
 title: "First Post With Hugo!"
 date: 2025-07-23
 draft: false
-featuredImage: "featuredangydog.webp"
+featuredImage: "feature1.webp"
 ---
 
-![angydog](featuredangydog.webp)
+![angydog](feature1.webp)
 So I've just wrapped up day 2 of my first gig as a freeelance Web Developer, it's been great! 
 I'm not sure id class much of the work ive done so far as "Web Dev", but its been a great opportunity to work on some real live in production commercial websites.
 
