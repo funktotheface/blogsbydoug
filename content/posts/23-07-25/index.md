@@ -1,5 +1,5 @@
 ---
-title: "First Post With Hugo!"
+title: "Freelance Web Dev, Day One."
 date: 2025-07-23
 draft: false
 featuredImage: "feature1.webp"
