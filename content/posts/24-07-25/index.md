@@ -13,3 +13,4 @@ Using the neocities API key generator, I was able to create a git repo for my we
 
 One of the really cool things about the setup is that my sites entire project uses approx 600mb of space, but the actual rendered files in the public folder are the only ones that get deployed to github, which means I can have a pretty extensive theme setup and resources available in the repo, but when i push the site to neocities only a few mb of space is required to host the output! 
 
+# this line was added straight through linux mint term
