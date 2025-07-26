@@ -22,6 +22,14 @@ jobs:
       - name: Build Hugo Site
         run: hugo
 
+      - name: Remove large or problematic files
+        run: |
+          rm -f public/sitemap.xml
+          rm -f public/index.xml
+          rm -f public/posts/index.xml
+
+        
+
       - name: Deploy to Neocities
         uses: bcomnes/deploy-to-neocities@v1
         with:
