@@ -2,7 +2,7 @@
 title: "Leaving Social Media"
 date: 2025-08-13
 draft: false
-featuredImage: feature3.webp
+featuredImage: feature4.webp
 ---
 ![AIBLOGGING](feature4.webp)
 
