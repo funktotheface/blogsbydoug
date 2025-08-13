@@ -19,6 +19,9 @@ jobs:
           hugo-version: '0.148.1'
           extended: true
 
+      - name: Clean Public Folder
+        run: rm -rf public
+
       - name: Build Hugo Site
         run: hugo
 
